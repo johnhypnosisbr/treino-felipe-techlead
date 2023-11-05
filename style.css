@@ -12726,3 +12726,23 @@ header.masthead .post-heading .meta a {
 #reset {
     background-color: #c91400;
 }
+
+.footer {
+
+    height:150px; // Replace with the height your footer should be
+    width: 100%; // Don't change
+    background-color: black;
+    position: fixed;
+    bottom: 0pt;
+    left: auto;
+
+}   
+
+.footer_contents {
+
+    height:150px; // Replace with the height your footer should be
+    width: 1000px; // Visible width of footer
+    margin:auto;
+    background: yellow;
+
+}
