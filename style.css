@@ -12716,7 +12716,7 @@ header.masthead .post-heading .meta a {
 }
 
 #start {
-    background-color: #009779;
+    background-color: #fff700;
 }
  
 #stop {
@@ -12746,6 +12746,6 @@ header.masthead .post-heading .meta a {
     height:150px; // Replace with the height your footer should be
     width: auto; // Visible width of footer
     margin: 0px;
-    background: yellow;
+    background: #0dd940;
 
 }
