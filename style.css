@@ -12730,19 +12730,22 @@ header.masthead .post-heading .meta a {
 .footer {
 
     height:150px; // Replace with the height your footer should be
-    width: 100%; // Don't change
+    width: auto; // Don't change
     background-color: black;
     position: fixed;
     bottom: 0pt;
-    left: auto;
+    right: 0pt;
+    left: 0pt;
+    text-align: center;
+    
 
 }   
 
 .footer_contents {
 
     height:150px; // Replace with the height your footer should be
-    width: 1000px; // Visible width of footer
-    margin:auto;
+    width: auto; // Visible width of footer
+    margin: 0px;
     background: yellow;
 
 }
