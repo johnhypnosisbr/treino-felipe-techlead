@@ -12705,9 +12705,14 @@ header.masthead .post-heading .meta a {
     margin-left: 5px;
 }
 
+#count{
+    display: none;;
+}
+
 .digit {
     font-size: 40px;
     color: #000000;
+
 }
  
 .txt {

@@ -79,7 +79,7 @@ function stopWatch() {
     if (timer) {
         count++;
  
-        if (count == 100) {
+        if (count == 80) {
             second++;
             count = 0;
         }
